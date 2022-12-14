@@ -1,0 +1,5 @@
+C:\Users\jstra\source\repos\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.csproj.AssemblyReference.cache
+C:\Users\jstra\source\repos\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jstra\source\repos\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.AssemblyInfoInputs.cache
+C:\Users\jstra\source\repos\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.AssemblyInfo.cs
+C:\Users\jstra\source\repos\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.csproj.CoreCompileInputs.cache
